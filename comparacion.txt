@@ -12,4 +12,10 @@ linea10
 linea 12
 
 
+<<<<<<< HEAD
 linea 14
+=======
+linea 14 modificada
+
+linea 15
+>>>>>>> e0adfe8... modificando linea 14 desde otra rama
